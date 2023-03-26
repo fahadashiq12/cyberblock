@@ -9,7 +9,7 @@ void main()
 {
     int num;
  
-    printf("Enter a number: \n");
+    printf("Enter a exact number: \n");
     scanf("%d", &num);
     if (num > 0)
         printf("%d is a positive number \n", num);
